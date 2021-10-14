@@ -1,0 +1,3 @@
+def calcsquare(num):
+    print(num**)
+    
